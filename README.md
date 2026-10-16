@@ -95,7 +95,6 @@ Smart-Energy-Anomaly-Detection/
 ├── anomaly_features.pkl        # Feature list for anomaly model
 ├── energy_features.pkl         # Feature list for regression model
 ├── requirements.txt
-├── .env                        # Create locally – do NOT commit or share
 ├── .gitignore
 └── README.md
 ```
