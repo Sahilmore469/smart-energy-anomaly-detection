@@ -100,7 +100,7 @@ Smart-Energy-Anomaly-Detection/
 └── README.md
 ```
 
-> If you are including the notebook or data-preparation script, add it to this folder as well.
+
 
 ---
 
